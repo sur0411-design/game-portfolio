@@ -1,2 +1,11 @@
-# game-portfolio
-my game design explaining the five different games 
+
+  # Replicate Existing Design
+
+  This is a code bundle for Replicate Existing Design. The original project is available at https://www.figma.com/design/E5pCSjwnpdu9PY7coHpJKl/Replicate-Existing-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
